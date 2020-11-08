@@ -3,8 +3,6 @@
 
 This project was built with Java and javaFX.
 
-## Available Scripts
-
 In the project directory, you can run cmd command:
 
 ### `java -jar MonkeyMaze.jar`
