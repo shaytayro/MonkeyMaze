@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <Label layoutX="10.0" layoutY="20.0" text="Help the monkey to find his banana!">
+         <font>
+            <Font name="System Bold Italic" size="22.0" />
+         </font></Label>
+        <Label layoutX="10.0" layoutY="60.0" text="You have to lead the monkey in a legal path in order ">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font></Label>
+        <Label layoutX="10.0" layoutY="330.0" text="Do not cross the walls.">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font></Label>
+      <Label layoutX="10.0" layoutY="90.0" prefHeight="21.0" prefWidth="272.0" text="to help  him reach the banana.">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font></Label>
+      <Label layoutX="10.0" layoutY="120.0" text="To create a maze you need to click a &quot;Generate&quot; button.">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font></Label>
+      <Label layoutX="10.0" layoutY="150.0" text="You can move the monkey in all directions and in">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font></Label>
+      <Label layoutX="10.0" layoutY="210.0" text="In order to move the monkey, you need to use ">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font></Label>
+      <Label layoutX="10.0" layoutY="240.0" text="the arrows or the right part of the keyboard.">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font></Label>
+      <Label layoutX="10.0" layoutY="270.0" text="If you want to see a maze solution you can click a ">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font></Label>
+      <Label layoutX="10.0" layoutY="180.0" text="diagonals as well.">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font>
+      </Label>
+      <Label layoutX="10.0" layoutY="300.0" text="&quot;Solve Maze&quot; button.">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font>
+      </Label>
+    </children>
+</AnchorPane>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" >
+    <children>
+        <Label layoutX="10.0" layoutY="20.0" text="Game properties:">
+         <font>
+            <Font name="System Bold Italic" size="22.0" />
+         </font></Label>
+        <Label layoutX="10.0" layoutY="70.0" text="We create a Maze with &quot;MyMazeGenarate&quot; algotithm ">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font></Label>
+        <Label layoutX="10.0" layoutY="100.0" text="Our Maze was solved by BestFirsDepth algorithm.">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font></Label>
+    </children>
+</AnchorPane>

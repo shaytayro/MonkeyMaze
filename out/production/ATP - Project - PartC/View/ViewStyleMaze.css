@@ -1,0 +1,13 @@
+.root{
+-fx-background-color: "#FFFFFF"
+}
+
+Button {
+-fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: "#8B4513" ;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+
+}

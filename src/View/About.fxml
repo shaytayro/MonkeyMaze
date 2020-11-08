@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <Label layoutX="10.0" layoutY="30.0" text="We are Shay Tayro and Eti Reznik,">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font></Label>
+        <Label layoutX="10.0" layoutY="60.0" text="second year students in the Department of">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font></Label>
+        <Label layoutX="10.0" layoutY="90.0" text="Information Systems Engineering at Ben Gurion University.">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font></Label>
+        <Label layoutX="10.0" layoutY="120.0" text="This project was built as part of an ">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font></Label>
+      <Label layoutX="70.0" layoutY="210.0" text="Eti Reznik, ID: 313279242">
+         <font>
+            <Font name="System Bold Italic" size="15.0" />
+         </font>
+      </Label>
+      <Label layoutX="70.0" layoutY="240.0" text="Shay Tayro, ID: 307832899">
+         <font>
+            <Font name="System Bold Italic" size="15.0" />
+         </font>
+      </Label>
+      <Label layoutX="10.0" layoutY="150.0" text="Advanced topics in programming course.">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font>
+      </Label>
+    </children>
+</AnchorPane>
